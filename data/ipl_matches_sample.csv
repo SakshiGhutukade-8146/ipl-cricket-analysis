@@ -1,0 +1,31 @@
+match_id,season,team1,team2,venue,city,date,win_by_runs,win_by_wickets,toss_winner,toss_decision,match_winner,player_of_match,player_of_match_team
+1,2020,Mumbai Indians,Chennai Super Kings,Wankhede Stadium,Mumbai,2020-09-19,0,5,Mumbai Indians,field,Mumbai Indians,Rohit Sharma,Mumbai Indians
+2,2020,Royal Challengers Bangalore,Delhi Capitals,M Chinnaswamy Stadium,Bengaluru,2020-09-20,0,7,Delhi Capitals,field,Royal Challengers Bangalore,AB de Villiers,Royal Challengers Bangalore
+3,2020,Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,Kolkata,2020-09-21,18,0,Sunrisers Hyderabad,bat,Kolkata Knight Riders,Andre Russell,Kolkata Knight Riders
+4,2020,Rajasthan Royals,Mumbai Indians,Sawai Mansingh Stadium,Jaipur,2020-09-22,0,9,Rajasthan Royals,field,Rajasthan Royals,Sanju Samson,Rajasthan Royals
+5,2020,Chennai Super Kings,Delhi Capitals,Dubai International Stadium,Dubai,2020-09-23,0,6,Delhi Capitals,field,Chennai Super Kings,Faf du Plessis,Chennai Super Kings
+6,2020,Royal Challengers Bangalore,Sunrisers Hyderabad,Dubai International Stadium,Dubai,2020-09-24,0,7,Sunrisers Hyderabad,field,Royal Challengers Bangalore,Virat Kohli,Royal Challengers Bangalore
+7,2021,Chennai Super Kings,Mumbai Indians,MA Chidambaram Stadium,Chennai,2021-04-15,0,4,Chennai Super Kings,field,Chennai Super Kings,Faf du Plessis,Chennai Super Kings
+8,2021,Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,Kolkata,2021-04-16,0,8,Rajasthan Royals,field,Kolkata Knight Riders,Shubman Gill,Kolkata Knight Riders
+9,2021,Delhi Capitals,Mumbai Indians,Dubai International Stadium,Dubai,2021-04-17,0,6,Mumbai Indians,field,Delhi Capitals,Rishabh Pant,Delhi Capitals
+10,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Wankhede Stadium,Mumbai,2021-04-18,0,9,Royal Challengers Bangalore,field,Royal Challengers Bangalore,Glenn Maxwell,Royal Challengers Bangalore
+11,2021,Sunrisers Hyderabad,Rajasthan Royals,Dubai International Stadium,Dubai,2021-04-19,22,0,Rajasthan Royals,bat,Sunrisers Hyderabad,David Warner,Sunrisers Hyderabad
+12,2021,Mumbai Indians,Chennai Super Kings,MA Chidambaram Stadium,Chennai,2021-05-03,0,5,Mumbai Indians,field,Mumbai Indians, Rohit Sharma,Mumbai Indians
+13,2022,Gujarat Titans,Rajasthan Royals,Wankhede Stadium,Mumbai,2022-05-29,0,7,Rajasthan Royals,field,Gujarat Titans,Hardik Pandya,Gujarat Titans
+14,2022,Lucknow Super Giants,Royal Challengers Bangalore,Wankhede Stadium,Mumbai,2022-05-28,0,6,Lucknow Super Giants,field,Lucknow Super Giants,KL Rahul,Lucknow Super Giants
+15,2022,Chennai Super Kings,Gujarat Titans,MA Chidambaram Stadium,Chennai,2022-05-30,0,5,Chennai Super Kings,field,Gujarat Titans,Shubman Gill,Gujarat Titans
+16,2022,Delhi Capitals,Sunrisers Hyderabad,Wankhede Stadium,Mumbai,2022-05-31,0,8,Sunrisers Hyderabad,field,Delhi Capitals,Rishabh Pant,Delhi Capitals
+17,2022,Mumbai Indians,Royal Challengers Bangalore,Dubai International Stadium,Dubai,2022-04-09,0,7,Royal Challengers Bangalore,field,Mumbai Indians,Suryakumar Yadav,Mumbai Indians
+18,2023,Chennai Super Kings,Gujarat Titans,MA Chidambaram Stadium,Chennai,2023-05-29,0,5,Gujarat Titans,field,Gujarat Titans,Shubman Gill,Gujarat Titans
+19,2023,Mumbai Indians,Rajasthan Royals,Wankhede Stadium,Mumbai,2023-04-30,0,6,Rajasthan Royals,field,Rajasthan Royals,Jos Buttler,Rajasthan Royals
+20,2023,Sunrisers Hyderabad,Royal Challengers Bangalore,Rajiv Gandhi International Stadium,Hyderabad,2023-04-21,0,8,Royal Challengers Bangalore,field,Sunrisers Hyderabad,Heinrich Klaasen,Sunrisers Hyderabad
+21,2023,Delhi Capitals,Lucknow Super Giants,Arun Jaitley Stadium,Delhi,2023-05-05,0,3,Lucknow Super Giants,field,Delhi Capitals,Rishabh Pant,Delhi Capitals
+22,2023,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,Kolkata,2023-04-12,0,5,Kolkata Knight Riders,field,Kolkata Knight Riders,Andre Russell,Kolkata Knight Riders
+23,2024,Chennai Super Kings,Rajasthan Royals,M A Chidambaram Stadium,Chennai,2024-03-30,0,6,Rajasthan Royals,field,Rajasthan Royals,Sanju Samson,Rajasthan Royals
+24,2024,Mumbai Indians,Sunrisers Hyderabad,Wankhede Stadium,Mumbai,2024-04-11,0,7,Mumbai Indians,field,Mumbai Indians,Suryakumar Yadav,Mumbai Indians
+25,2024,Royal Challengers Bangalore,Delhi Capitals,M Chinnaswamy Stadium,Bengaluru,2024-04-13,0,5,Delhi Capitals,field,Royal Challengers Bangalore,Virat Kohli,Royal Challengers Bangalore
+26,2024,Chennai Super Kings,Delhi Capitals,MA Chidambaram Stadium,Chennai,2024-04-22,0,8,Delhi Capitals,field,Chennai Super Kings,Ruturaj Gaikwad,Chennai Super Kings
+27,2024,Sunrisers Hyderabad,Chennai Super Kings,Rajiv Gandhi International Stadium,Hyderabad,2024-05-05,0,6,Sunrisers Hyderabad,field,Sunrisers Hyderabad,Pat Cummins,Sunrisers Hyderabad
+28,2024,Rajasthan Royals,Delhi Capitals,Sawai Mansingh Stadium,Jaipur,2024-05-18,0,4,Rajasthan Royals,field,Rajasthan Royals,Yashasvi Jaiswal,Rajasthan Royals
+29,2024,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,Kolkata,2024-05-27,0,9,Kolkata Knight Riders,field,Kolkata Knight Riders,Andre Russell,Kolkata Knight Riders
+30,2024,Gujarat Titans,Royal Challengers Bangalore,Narendra Modi Stadium,Ahmedabad,2024-05-30,0,4,Gujarat Titans,field,Gujarat Titans,Shubman Gill,Gujarat Titans
